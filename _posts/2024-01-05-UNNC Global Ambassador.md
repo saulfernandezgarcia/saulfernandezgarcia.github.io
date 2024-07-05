@@ -21,4 +21,4 @@ Regards, \
 Saul FG
 
 ![A group of UNNC students at a formal dinner.](/assets/img/china/globalAmbassador/unnc_formal_dinner_awards.jpg)
-_It was during this dinner that some of us, international students, received the recognition for the award._
+_It was during this dinner that some of us, international students, received the recognition for the award. The dinner was lovely! Thank you for it_
