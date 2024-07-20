@@ -2,7 +2,7 @@
 title: "UNNC Global Fair: Spain Representative"
 date: 2023-12-17 17:00:00 +0100
 categories: [UNIVERSITY LIFE, CHINA]
-tags: [unnc, china, '2024', vav, volunteering]     # TAG names should ALWAYS be lowercase
+tags: [unnc, china, '2023', vav, volunteering]     # TAG names should ALWAYS be lowercase
 image:
  path: "/assets/img/china/vav/globalFair/global fair front view.jpg"
  alt: Photograph during the Global Fair at the UNNC. A group of students face the booth for Spain while Saúl explains the rules of a Spanish vocabulary game.
