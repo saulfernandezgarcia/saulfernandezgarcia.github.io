@@ -12,7 +12,7 @@ image:
 
 Have you heard of the UNNC's Open Day? On this special day, the UNNC opens its doors for people to explore campus and the opportunities it offers and experience for a day its warm environment. Fortunately for me, this year is the 20th anniversary of the UNNC and the Open Day is taking place on the UNNC's International Education Week, so we at campus were more than ready to show what the university had to offer in all its aspects! One of the key activities planned for this day was the "Global Village" on the 14th of April.
 
-![Spain's booth at the UNNC's Global Village](</assets/img/china/vav/globalVillage/global_village_spain_booth.jpeg>)_The sunflowers really make for a meaninful touch and a connection to Spanish culture, don't they?_
+![Spain's booth at the UNNC's Global Village](</assets/img/china/vav/globalVillage/global_village_spain_booth.jpeg>)_The sunflowers really make for a meaningful touch and a connection to Spanish culture, don't they?_
 
 ### Global Village? Or Global Fair?
 
