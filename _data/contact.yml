@@ -23,9 +23,9 @@
 #- type: twitter
 #  icon: "fa-brands fa-x-twitter"
 
-#- type: rss
-#  icon: "fas fa-rss"
-#  noblank: true
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
 
 #
 # - type: stack-overflow

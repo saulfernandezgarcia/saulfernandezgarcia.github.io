@@ -1,5 +1,5 @@
 ---
-title: Winter Vacations in China
+title: Winter Vacations in China and Japan
 date: 2024-02-20 17:00:00 +0100
 categories: [UNIVERSITY LIFE, CHINA]
 tags: [unnc, china, japan, '2024']     # TAG names should always be lowercase
