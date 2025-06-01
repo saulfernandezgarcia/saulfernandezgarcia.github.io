@@ -48,6 +48,9 @@ google_site_verification: # fill in to your verification string
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
+cloudflare_analytics:
+  id: 9156288b021d40a2b8a4881a3d19a5a8
+
 google_analytics:
   id: # fill in your Google Analytics ID
 
