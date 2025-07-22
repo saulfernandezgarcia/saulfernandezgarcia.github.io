@@ -17,11 +17,11 @@ Also, I am writing this post 4 years after my discovery. Why? Well, because afte
 ### A dipping tone, or a low tone disguised in tradition?
 
 First of all, just to be clear, the five basic tones in Mandarin are:
-- first: ā
-- second: á
-- third: ǎ
-- fourth: à
-- fifth / neutral (I like referring to it as "fifth" tone): a
+- first: "ā"
+- second: "á"
+- third: "ǎ"
+- fourth: "à"
+- fifth / neutral (I like referring to it as "fifth" tone): "a"
 
 I did some research about tones in Chinese, read forums, and watched videos to get around the idea of how to correctly intone syllables. However, most of these resources explained the third tone in isolation as a dip-then-up sound, like intoning down and up ("v"), and then hopped onto words and examples where such dipping was not noticeable (hey, at least for me, okay? (⌐■_■)), leaving me even more confused.
 
@@ -84,11 +84,10 @@ Finally, just as my two cents to contribute to the cause, I would like to update
 3. When in isolation or at the end of a sentence, make it a "dip-then-rise" (i.e.: add a rise after the low). Note: fast speech might keep it as "low".
 
 I think this way it is a bit more comprehensive and clear, although the best thing to do is to read the full article! That's what cool people do, anyways 😎.
-___
 
 ### Final Remarks
 
 If you would like to read more about the third tone and different ways it is taught, you can also check the paper written by Olle Linge, 2011: "Teaching the third tone in Standard Chinese" (click [here](https://www.hackingchinese.com/media/teaching_the_third_tone_in_standard_chinese.pdf)). I read his paper to get into detail about the ways the third tone is taught and how successful they might be. Quite interesting! I also liked discovering the different ways to "code" the pronounciation in levels, like "mà" as "ma51".
 
-Regards \
+Regards, \
 Saúl 
