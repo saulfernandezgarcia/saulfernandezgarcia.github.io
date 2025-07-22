@@ -17,5 +17,3 @@ Additionally, I enjoy doing kendo, writing haikus, and have a deep appreciation 
 # The Blog
 
 You are now at my blog, so feel free to wander around :). I want to keep it as an outlet for my experiences, thoughts, and other findings.
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
