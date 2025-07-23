@@ -1,5 +1,6 @@
 ---
 title: UNNC Exchange Student Spokesman and Partner Day
+description: "Representing the UNNC as an official Exchange Student Spokesman at Partner Day, sharing my experience in China and at the UNNC while involving myself in the community."
 date: 2024-05-09 17:00:00 +0100
 categories: [UNIVERSITY LIFE, CHINA]
 tags: [unnc, china, '2024']     # TAG names should always be lowercase

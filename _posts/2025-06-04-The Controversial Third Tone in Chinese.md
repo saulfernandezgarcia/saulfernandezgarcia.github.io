@@ -1,6 +1,7 @@
 ---
 title: "The Controversial Third Tone in Chinese"
 date: 2025-06-04 16:00:00 +0100
+description: "A brief discussion about the different ways the third tone in Chinese is taught as well as third tone sandhi or tone changes."
 categories: [CHINESE]
 tags: [chinese, china, '2025', mandarin]     # TAG names should ALWAYS be lowercase
 image:

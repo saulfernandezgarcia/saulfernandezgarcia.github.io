@@ -1,5 +1,6 @@
 ---
 title: "UNNC Global Village: Spain Representative (again!)"
+description: "Promoting cultural exchange while sharing crafts, symbols, food, and knowledge about Spanish culture with Chinese people and visitors at the UNNC."
 date: 2024-04-27 17:00:00 +0100
 categories: [UNIVERSITY LIFE, CHINA]
 tags: [unnc, china, '2024', vav, volunteering]     # TAG names should ALWAYS be lowercase

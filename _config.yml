@@ -17,14 +17,17 @@ timezone: Europe/Madrid
 
 title: Saúl Fernández García
 
-tagline: Welcome to my blog! :)
+tagline: A blog for cultural experiences, cybersecurity, and interesting hobbies and topics
 
 description: >- # used by seo meta and the atom feed
-  Saúl Fernández García - Phoenix Ablaze blog cybersecurity hacking coding china spain canva
+  saulfernandezgarcia is a variety blog by Saúl Fernández García, sharing facts of cybersecurity, computer science, Japanese and Chinese culture, and other topics
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://saulfernandezgarcia.github.io"
+
+# The base URL of your site
+baseurl: ""
 
 github:
   username: saulfernandezgarcia
@@ -62,14 +65,9 @@ webmaster_verifications:
 # The end of `jekyll-seo-tag` settings
 
 
-cloudflare_analytics:
-  id: 9156288b021d40a2b8a4881a3d19a5a8
 
-google_analytics:
-  id: # fill in your Google Analytics ID
-
-goatcounter:
-  id: # fill in your Goatcounter ID
+#goatcounter:
+#  id: # fill in your Goatcounter ID
 
 # Web Analytics Settings
 analytics:
@@ -84,7 +82,7 @@ analytics:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
   cloudflare:
-    id: # fill in your Cloudflare Web Analytics token
+    id: 9156288b021d40a2b8a4881a3d19a5a8
   fathom:
     id: # fill in your Fathom Site ID
 
@@ -168,8 +166,6 @@ pwa:
 
 paginate: 10
 
-# The base URL of your site
-baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 

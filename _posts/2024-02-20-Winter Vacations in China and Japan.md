@@ -1,5 +1,6 @@
 ---
 title: Winter Vacations in China and Japan
+description: "Sharing my experience while enjoying winter vacations with a trip to Japan (dream come true!) and to the north of China during the Spring Festival."
 date: 2024-02-20 17:00:00 +0100
 categories: [UNIVERSITY LIFE, CHINA]
 tags: [unnc, china, japan, '2024']     # TAG names should always be lowercase
