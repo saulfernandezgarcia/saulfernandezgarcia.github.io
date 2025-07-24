@@ -49,7 +49,6 @@ social:
     # Uncomment below to add more social links
     - https://www.linkedin.com/in/saulfernandezgarcia
 
-google_site_verification: # fill in to your verification string
 
 # Site Verification Settings
 webmaster_verifications:
@@ -63,11 +62,6 @@ webmaster_verifications:
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
-
-
-
-#goatcounter:
-#  id: # fill in your Goatcounter ID
 
 # Web Analytics Settings
 analytics:
@@ -217,12 +211,12 @@ sass:
 
 compress_html:
   clippings: all
-  comments: all
+  comments: all     # I.e.: remove comments when rendering htmls
   endings: all
   profile: false
   blanklines: false
   ignore:
-    envs: [development]
+    envs: [development]     # It will not do any of the above when the environment is development.
 
 exclude:
   - "*.gem"
