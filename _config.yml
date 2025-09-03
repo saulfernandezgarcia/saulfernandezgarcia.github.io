@@ -9,44 +9,47 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Europe/Madrid
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Saúl Fernández García
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: A blog about cybersecurity and cultural aspects of Japan and China.
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  saulfernandezgarcia is a variety blog by Saúl Fernández García, sharing facts of cybersecurity, computer science, Japanese and Chinese culture, and other topics
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://saulfernandezgarcia.github.io"
+
+# The base URL of your site
+baseurl: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: saulfernandezgarcia
 
-twitter:
-  username: twitter_username # change to your Twitter username
+#twitter:
+  #username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+
+  name: Saúl Fernández García
+  email: saulfernandez84@gmail.com # change to your email address UPDATE
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    #- https://twitter.com/username # change to your twitter homepage
+    - https://github.com/saulfernandezgarcia # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/saulfernandezgarcia
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: xxabStI7Me8WfVvznOCUHA7X2kMEzJnUEYzTsU_g3XI
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -69,7 +72,7 @@ analytics:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
   cloudflare:
-    id: # fill in your Cloudflare Web Analytics token
+    id: 9156288b021d40a2b8a4881a3d19a5a8
   fathom:
     id: # fill in your Fathom Site ID
 
@@ -98,7 +101,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/profilePic/profilePicCaixa.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -149,9 +152,6 @@ pwa:
 
 paginate: 10
 
-# The base URL of your site
-baseurl: ""
-
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
@@ -198,12 +198,12 @@ sass:
 
 compress_html:
   clippings: all
-  comments: all
+  comments: all     # I.e.: will remove comments when rendering htmls
   endings: all
   profile: false
   blanklines: false
   ignore:
-    envs: [development]
+    envs: [development]     # It will not do any of the above when the environment is development.
 
 exclude:
   - "*.gem"
