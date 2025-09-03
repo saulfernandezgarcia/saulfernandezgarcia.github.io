@@ -6,7 +6,7 @@ order: 4
 
 ## HELLO! •ω•✧
 
-I am Saúl Fernández García, 荣浩宇, a year 4 Cybersecurity Engineering Bachelor's Degree student at the University Rey Juan Carlos URJC in Madrid, Spain. Due to my consistent high performance both academically and in extracurricular activities, I obtained one of the 50 national "la Caixa" Foundation Scholarships for Bachelor Degree Studies, which I continue to hold and renew annually.
+I am Saúl Fernández García, 荣浩宇, a Cybersecurity Engineering Bachelor's Degree student at the University Rey Juan Carlos URJC in Madrid, Spain. Due to my consistent high performance both academically and in extracurricular activities, I obtained one of the 50 national "la Caixa" Foundation Scholarships for Bachelor Degree Studies, which I continue to hold and renew annually.
 
 I find interest in network security and earned my CISCO CCNA certification in 2023. During my year as an international exchange student at the University of Nottingham Ningbo China (UNNC), I not only improved my level of Chinese but also developed an interest in software testing techniques, pentesting, and the applications of machine learning with Spark.
 
