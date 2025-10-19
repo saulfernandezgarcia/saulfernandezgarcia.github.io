@@ -2,8 +2,8 @@
 title: "Making a Script to Communicate under Modbus Protocol"
 description: "Developing a python program to communicate under Modbus protocol and testing it in an emulated environment."
 date: 2025-05-29 17:00:00 +0100
-categories: [UNIVERSITY LIFE, CYBERSECURITY]
-tags: [urjc, cybersecurity, critical infrastructures, modbus, protocol, '2025']     # TAG names should always be lowercase
+categories: [CYBERSECURITY]
+tags: [university, urjc, cybersecurity, critical infrastructures, modbus, protocol, '2025']     # TAG names should always be lowercase
 # image:
 # path: 
 # alt: 
