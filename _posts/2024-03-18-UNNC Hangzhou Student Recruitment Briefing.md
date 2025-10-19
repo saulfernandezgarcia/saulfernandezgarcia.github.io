@@ -2,7 +2,7 @@
 title: "UNNC Hangzhou Student Recruitment Briefing - 宁波诺丁汉大学招生宣讲会"
 description: "Offering guidance, advice, and tips when choosing the UNNC to study as well as sharing my experience."
 date: 2024-03-18 17:00:00 +0100
-categories: [UNIVERSITY LIFE, CHINA]
+categories: [UNIVERSITY LIFE]
 tags: [unnc, china, '2024', volunteering]     # TAG names should ALWAYS be lowercase
 image:
  path: "/assets/img/china/hangzhouVolunteering/hangzhou_volunteering_entrance_2.jpg"

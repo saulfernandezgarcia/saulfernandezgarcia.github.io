@@ -2,7 +2,7 @@
 title: UNNC Global Ambassador
 description: "The award at the UNNC to recognise active roles in the promotion of campus life."
 date: 2024-01-05 17:00:00 +0100
-categories: [UNIVERSITY LIFE, CHINA]
+categories: [UNIVERSITY LIFE]
 tags: [unnc, china, '2024', scholarship, volunteering]     # TAG names should always be lowercase
 image:
  path: /assets/img/china/nottingham_letters_saulfg.jpg

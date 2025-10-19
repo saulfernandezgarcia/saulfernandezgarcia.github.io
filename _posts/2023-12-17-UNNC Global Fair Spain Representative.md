@@ -2,7 +2,7 @@
 title: "UNNC Global Fair: Spain Representative"
 description: "Promoting Spanish culture through vocabulary games to encourage cultural exchange and discuss similarities and differences between cultures with people at the UNNC."
 date: 2023-12-17 17:00:00 +0100
-categories: [UNIVERSITY LIFE, CHINA]
+categories: [UNIVERSITY LIFE]
 tags: [unnc, china, '2023', vav, volunteering]     # TAG names should ALWAYS be lowercase
 image:
  path: "/assets/img/china/vav/globalFair/global fair front view.jpg"
